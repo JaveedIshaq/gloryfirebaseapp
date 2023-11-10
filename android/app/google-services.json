@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698658875379",
+    "project_id": "gloryfirebaseapp",
+    "storage_bucket": "gloryfirebaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698658875379:android:cf67f6cd301c8b6a41d486",
+        "android_client_info": {
+          "package_name": "com.glory.gloryfirebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWFnUbXfC_BgmTWPkpYGzlyIdS_JoDyik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
